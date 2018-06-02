@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejercicio1;
+package Ejercicios;
 /**
  *
  * @author G. Mizael Mtz Hdz
