@@ -25,7 +25,15 @@ public class Trapecio implements FiguraGeometrica
     public float area() {
         return (float) (this.altura * ((this.base1 + this.base2)/2));
     }
+    //métodos adicionales
+    public String getColor() {
+        return color;
+    }
 
+    public void setColor(String color) {
+        this.color = color;
+    }
+    
     @Override
     public String color() {
         return this.color;

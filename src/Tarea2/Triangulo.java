@@ -29,6 +29,14 @@ public class Triangulo implements FiguraGeometrica
         this.lado = lado;
     }
 
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+    
     @Override
     public String color() {
         return this.color;

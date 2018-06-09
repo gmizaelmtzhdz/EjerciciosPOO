@@ -24,7 +24,8 @@ public class Circulo implements FiguraGeometrica{
     public void setRadio(int radio) {
         this.radio = radio;
     }
-
+    
+    //métodos adicionales
     public String getColor() {
         return color;
     }

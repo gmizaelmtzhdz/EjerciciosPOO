@@ -25,7 +25,7 @@ public class Cuadrado implements FiguraGeometrica{
     public void setLado(int lado) {
         this.lado = lado;
     }
-
+    //métodos adicionales
     public String getColor() {
         return color;
     }
