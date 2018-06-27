@@ -21,7 +21,7 @@ public class Cliente {
     // constructor
     public Cliente(String nom, int arts) {
         //(int d, int m, int a)
-        this.fecha=new Fecha(1,25,2018);
+        this.fecha=new Fecha(1,12,2018);
         nombre = nom;
         //contador = contador + 1;
         contador++;
