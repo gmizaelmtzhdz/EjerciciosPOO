@@ -77,7 +77,9 @@ public class Fecha {
             System.out.println("[Error] No debe contener valores negativos ó fuera de rango");
         }
         if(fecha_correcta)
-            System.out.println("Fecha: "+this.getFecha());
+        {
+            //System.out.println("Fecha: "+this.getFecha());
+        }
     }
 
     /**

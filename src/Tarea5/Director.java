@@ -6,7 +6,7 @@ public class Director extends Empleado {
     public Director( )
     {
         this.setPuesto("Director");
-        fecha_revision_reporte_directivo=new Fecha(1,6,2018);
+        fecha_revision_reporte_directivo=new Fecha(11,12,2018);
     }
     @Override
     public float calcularISR() {
@@ -16,6 +16,6 @@ public class Director extends Empleado {
     //Método adicional
     public String fecha_revision_reporte_directivo()
     {
-        return this.fecha_revision_reporte_directivo.getFecha();
+        return "Fecha de revisión de reporte del directivo: "+this.fecha_revision_reporte_directivo.getFecha();
     }
 }
