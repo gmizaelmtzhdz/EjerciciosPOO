@@ -1,0 +1,2 @@
+2,Danna Hernandez,Apodaca NL,normal,2,50.0,0,15,100.0
+5,Fernanda Fernandez,Cienega de Flores NL,normal,30,55.0,0,95,1650.0

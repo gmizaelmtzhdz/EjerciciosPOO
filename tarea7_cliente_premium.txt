@@ -1,0 +1,3 @@
+1,Jose Perez,Monterrey NL,premium,5,20.0,10,120,90.0
+3,Edna Sanchez,Escobedo NL,premium,20,35.0,15,250,595.0
+4,Roberto Rodriguez,San Nicolás NL,premium,15,80.0,25,270,900.0

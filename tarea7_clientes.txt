@@ -1,0 +1,5 @@
+1,Jose Perez,Monterrey NL,premium,5,20,10,100
+2,Danna Hernandez,Apodaca NL,normal,2,50,0,10
+3,Edna Sanchez,Escobedo NL,premium,20,35,15,150
+4,Roberto Rodriguez,San Nicolás NL,premium,15,80,25,200
+5,Fernanda Fernandez,Cienega de Flores NL,normal,30,55,0,20
